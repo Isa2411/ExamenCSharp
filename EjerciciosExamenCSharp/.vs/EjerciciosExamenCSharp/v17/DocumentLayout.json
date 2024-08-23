@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\ejercicioscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|solutionrelative:ejercicioscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|c:\\users\\isabela cordoba\\downloads\\ejerciciosexamencsharp\\ejercicioscsharp\\ejerciciopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|solutionrelative:ejercicioscsharp\\ejerciciopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\ejercicioscsharp\\ejercicioempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|solutionrelative:ejercicioscsharp\\ejercicioempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\ejercicioscsharp\\interface\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A609410A-7A0A-4684-87B9-85E5229756C7}|EjerciciosCsharp\\EjerciciosExamenCSharp.csproj|solutionrelative:ejercicioscsharp\\interface\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\EjercicioPersona\\Persona.cs",
+              "RelativeDocumentMoniker": "EjerciciosCsharp\\EjercicioPersona\\Persona.cs",
+              "ToolTip": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\EjercicioPersona\\Persona.cs",
+              "RelativeToolTip": "EjerciciosCsharp\\EjercicioPersona\\Persona.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAkwEsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:49:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\Program.cs",
+              "RelativeToolTip": "EjerciciosCsharp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:36:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\Interface\\ICalculable.cs",
+              "RelativeDocumentMoniker": "EjerciciosCsharp\\Interface\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\Interface\\ICalculable.cs",
+              "RelativeToolTip": "EjerciciosCsharp\\Interface\\ICalculable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:48:33.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\EjercicioEmpleado\\Empleado.cs",
+              "RelativeDocumentMoniker": "EjerciciosCsharp\\EjercicioEmpleado\\Empleado.cs",
+              "ToolTip": "C:\\Users\\ISABELA CORDOBA\\Downloads\\EjerciciosExamenCSharp\\EjerciciosCsharp\\EjercicioEmpleado\\Empleado.cs",
+              "RelativeToolTip": "EjerciciosCsharp\\EjercicioEmpleado\\Empleado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:24:08.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

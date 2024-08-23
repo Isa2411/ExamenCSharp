@@ -1,0 +1,6 @@
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\bin\Debug\EjerciciosCsharp.exe
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\bin\Debug\EjerciciosCsharp.pdb
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\obj\Debug\EjerciciosExamenCSharp.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\obj\Debug\EjerciciosExamenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\obj\Debug\EjerciciosCsharp.exe
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosCsharp\obj\Debug\EjerciciosCsharp.pdb

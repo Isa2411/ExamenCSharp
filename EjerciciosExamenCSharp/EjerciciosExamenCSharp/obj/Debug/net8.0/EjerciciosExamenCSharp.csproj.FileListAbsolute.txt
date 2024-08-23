@@ -1,0 +1,14 @@
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\bin\Debug\net8.0\EjerciciosExamenCSharp.exe
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\bin\Debug\net8.0\EjerciciosExamenCSharp.deps.json
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\bin\Debug\net8.0\EjerciciosExamenCSharp.runtimeconfig.json
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\bin\Debug\net8.0\EjerciciosExamenCSharp.dll
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\bin\Debug\net8.0\EjerciciosExamenCSharp.pdb
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.dll
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\refint\EjerciciosExamenCSharp.dll
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.pdb
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\EjerciciosExamenCSharp.genruntimeconfig.cache
+C:\Users\ISABELA CORDOBA\Downloads\EjerciciosExamenCSharp\EjerciciosExamenCSharp\obj\Debug\net8.0\ref\EjerciciosExamenCSharp.dll
